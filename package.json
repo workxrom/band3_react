@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack --mode development --display-error-details",
     "dev": "webpack-dev-server --mode development --history-api-fallback --color",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production "
   },
   "keywords": [],
   "author": "",
